@@ -119,7 +119,7 @@ main{
     font-family: var(--font-pattern);
     color: var(--azul-facebook);
     margin-bottom: 10px;
-    min-width: 350px;
+    min-width: 280px;
     padding-bottom: 15px;
     text-align: center;
     border-bottom: 1px solid #918d9f46;
@@ -276,10 +276,6 @@ footer{
     .ctn form input{
         max-width: 280px;
 
-    }
-    
-    .ctn form a{
-        min-width: 280px;  
     }
     
 
